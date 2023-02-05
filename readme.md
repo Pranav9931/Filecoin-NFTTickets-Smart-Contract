@@ -21,6 +21,12 @@ npm install
 
 ## Usage
 
+Before starting the application, you need to create a `.env` file with your environment variables. A sample `.env.example` file has been provided for you. You can copy the sample `.env.example` file to a `.env` file using the following command:
+
+```bash
+cp .env.example .env
+```
+
 To start the application, run the following command in your terminal:
 
 ```bash
