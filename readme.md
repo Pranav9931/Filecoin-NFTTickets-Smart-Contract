@@ -1,6 +1,6 @@
 # NodeJS + IPFS + Filecoin Storage Application
 
-This is a sample NodeJS application that leverages the power of IPFS and Filecoin to store data in a decentralized and secure manner. IPFS (InterPlanetary File System) is a peer-to-peer network for storing and sharing files in a distributed manner. Filecoin is a decentralized storage network that incentivizes storage providers to store data securely and durably.
+This is a NodeJS application that leverages the power of IPFS and Filecoin to store data in a decentralized and secure manner. IPFS (InterPlanetary File System) is a peer-to-peer network for storing and sharing files in a distributed manner. Filecoin is a decentralized storage network that incentivizes storage providers to store data securely and durably.
 
 ## Requirements
 
