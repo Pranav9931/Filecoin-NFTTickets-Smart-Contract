@@ -16,7 +16,7 @@ To run this application, you'll need the following installed on your machine:
 To install the dependencies, run the following command in your terminal:
 
 ```bash
-    npm install
+npm install
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ To install the dependencies, run the following command in your terminal:
 To start the application, run the following command in your terminal:
 
 ```bash
-    npm start
+npm start
 ```
 
 ## Storage with IPFS and Filecoin
