@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Pranav9931/Filecoin-Web-Storage-IPFS#readme",
   "dependencies": {
-    "cids": "^1.1.9"
+    "cids": "^1.1.9",
+    "node-fetch": "^3.3.0"
   }
 }
