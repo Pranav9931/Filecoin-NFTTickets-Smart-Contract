@@ -63,12 +63,12 @@ import fetch from "node-fetch";
 
 const fetchData = async () => {
   fetch(
-    "https://bafybeiejgunlzn3v5gxdfji7endzxz2a6zcxfando5iwirx3g5hdqhh36i.ipfs.w3s.link/new.json"
+    "https://bafybeifvzmrqbr64fb5djfxli5rfaylkb2bj3dti3azr7mqr245lcg4sze.ipfs.w3s.link/new.json"
   )
     .then((res) => res.json())
     .then((res) => console.log(res))
     .catch((err) => console.log(err));
-  console.log();
+  console.log("Data Stored and retrieved successfully");
 };
 
 fetchData();

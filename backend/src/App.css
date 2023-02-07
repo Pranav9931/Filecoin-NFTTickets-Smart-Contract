@@ -1,0 +1,40 @@
+
+.navbar{
+  width: 600px;
+  margin: 0 auto;
+  padding: 1em;
+  font-weight: 700;
+  background: rgba( 255, 255, 255, 0.45 );
+  backdrop-filter: blur( 11.5px );
+  -webkit-backdrop-filter: blur( 11.5px );
+  /* border: 1px solid rgba( 255, 255, 255, 0.18 ); */
+  border: 1px solid rgba( 0, 0, 0, 0.18 );
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.animation{
+  
+  border-radius: 50%;
+  background-color: red;
+  align-self: center;
+}
+
+.emp-container{
+  width: 600px;
+  margin: 0 auto;
+  padding: 1em;
+  border: 1px solid rgba( 0, 0, 0, 0.18 );
+}
+
+@media screen and (max-width: 600px){
+  .emp-container{
+    width: calc(100% - 34px);
+  }
+  .navbar{
+    width: calc(100% - 34px);
+  }
+}

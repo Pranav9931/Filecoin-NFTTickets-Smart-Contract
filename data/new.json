@@ -1,5 +1,36 @@
 {
-    "fName": "Pranav",
-    "lName": "Kumar",
-    "email": "pranavsandilya786@gmail.com"
+    "personalInformation": {
+        "name": {
+            "first": "Pranav",
+            "last": "Kumar"
+        },
+        "age": 21,
+        "email": "pranavsandilya786@gmail.com",
+        "address": {
+            "street": "Kakkan Street",
+            "city": "Guduvanchery",
+            "state": "Tamil Nadu",
+            "zipCode": "603203"
+        },
+        "phoneNumber": "+1-555-555-5555",
+        "walletAddress": "0x41cf2f9308E6E3aae6DD787Bf1e26168E4D146b0",
+        "avatarImg": "https://media.licdn.com/dms/image/D5603AQGFPcZrC1zR4A/profile-displayphoto-shrink_800_800/0/1666475653079?e=1681344000&v=beta&t=MPc4PA2WZmD6ouQ5QSMoz7Rp27YMtknNdxmrSfomUuM"
+    },
+    "professionalInformation": {
+        "isAdmin": false,
+        "department": "IT",
+        "position": "Software Engineer",
+        "hireDate": "2020-01-01",
+        "employeeId": 123456,
+        "salary": 1.2
+    },
+    "emergencyContact": {
+        "name": {
+            "first": "G K Dvijesh",
+            "last": "Raghav"
+        },
+        "relation": "Friend",
+        "phoneNumber": "+1-555-555-5556",
+        "email": "dvijesh.raghav@gmail.com"
+    }
 }
